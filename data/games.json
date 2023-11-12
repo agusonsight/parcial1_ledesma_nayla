@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Aventura Estelar",
+      "genre": "Aventura",
+      "members": ["LunaDeveloper", "EstrellaCoder"],
+      "edition": 2023
+    },
+    {
+      "id": 2,
+      "name": "Dominio Táctico",
+      "genre": "Estrategia",
+      "members": ["StrategyMaster", "TacticPro"],
+      "edition": 2023
+    },
+    {
+      "id": 3,
+      "name": "Carrera Cósmica",
+      "genre": "Carreras",
+      "members": ["Speedster", "GalaxyRacer"],
+      "edition": 2023
+    },
+    {
+      "id": 4,
+      "name": "Rompecabezas Galáctico",
+      "genre": "Rompecabezas",
+      "members": ["PuzzleSolver", "GalacticMind"],
+      "edition": 2023
+    },
+    {
+      "id": 5,
+      "name": "Simulador Submarino Espacial",
+      "genre": "Simulación",
+      "members": ["CaptainSub", "SpaceExplorer"],
+      "edition": 2023
+    }
+  ]
+  
